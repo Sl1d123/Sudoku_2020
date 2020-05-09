@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Sudocu.cpp
+C:\Users\Egor\Documents\OAiP\ProjectC++\Sudoku2020\Sudoku2020\Sudocu.cpp(27,10): error C2065:  gm: необъявленный идентификатор
+C:\Users\Egor\Documents\OAiP\ProjectC++\Sudoku2020\Sudoku2020\Sudocu.cpp(28,2): error C2050:  значение выражения для варианта выбора не является целым
+C:\Users\Egor\Documents\OAiP\ProjectC++\Sudoku2020\Sudoku2020\Sudocu.cpp(31,3): error C2065:  gm: необъявленный идентификатор
+C:\Users\Egor\Documents\OAiP\ProjectC++\Sudoku2020\Sudoku2020\Sudocu.cpp(35,3): error C2065:  gm: необъявленный идентификатор
+  Sudocu.h
+  Создание кода...
+C:\Users\Egor\Documents\OAiP\ProjectC++\Sudoku2020\Sudoku2020\Sudocu.cpp(37,3): error C2065:  gm: необъявленный идентификатор
